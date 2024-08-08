@@ -1,2 +1,4 @@
 # Machine_Learning
-102397004_Arshnoor_3CS9
+Roll No: 102397004
+Name: Arshnoor
+Subgroup: 3CS9
